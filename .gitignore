@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+gerar_csv
+spreadsheet.csv
